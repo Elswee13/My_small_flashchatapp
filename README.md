@@ -1,6 +1,8 @@
 # my_flash_chat
 A new Flutter project.
 
+![Flash Chat Demo](https://user-images.githubusercontent.com/77897104/165976567-88ce787d-3a91-4de1-85ca-73cfa1507b12.png)
+
 ENG:
 This project is an application to chat, it was a challenge because I had to learn to incorporate the Firebase system and put security rules.
 I was errors and problems in the course like calling the collection of the database in firebase to the code of the application, I had to
