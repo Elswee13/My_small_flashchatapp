@@ -1,5 +1,5 @@
 # my_flash_chat
-A new Flutter project.
+This is my sixth app.
 
 
 ENG:
